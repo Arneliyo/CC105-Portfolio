@@ -6,4 +6,9 @@ Color: black;
 
 img{
 	border-radius: 50%;
+	txt-align: center;
+}
+
+background{
+color:blue;
 }

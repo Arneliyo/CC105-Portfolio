@@ -1,13 +1,9 @@
-body {
-	background-image: url(IMG_20200726_180951.jpg);
-	background-repeat: no-repeat;
-	background-size: 100%;
-	background-attachment: fixed;
-	background-position: center;
-}
-
 H1{
 text-shadow:  5px 2px 4px gray;
 font-size:50px;
 Color: black;
 } 
+
+img{
+	border-radius: 50%;
+}
